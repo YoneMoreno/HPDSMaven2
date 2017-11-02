@@ -4,6 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+
+
+
     <groupId>com.Yone</groupId>
     <artifactId>Proyecto</artifactId>
     <version>1.0-SNAPSHOT</version>
@@ -19,8 +22,10 @@
 
     <organization>
         <name>ULPGC, España</name>
-        <url>http://www.ulpgc.es</url>
+        <url>https://maven.apache.org/guides/mini/guide-3rd-party-jars-local.html</url>
     </organization>
+
+    
 
     <developers>
         <developer>
@@ -36,7 +41,7 @@
         <developer>
             <name>Yone Moreno Jiménez</name>
             <email>yonem9@gmail.com</email>
-            <url>http://cualquiera.es</url>
+            <url>https://stackoverflow.com/questions/12175223/how-to-set-properties-referenced-from-dependencies-in-maven</url>
             <roles>
                 <role>developer</role>
             </roles>
