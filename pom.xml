@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.Yone</groupId>
+    <artifactId>Proyecto</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <licenses>
+        <license>
+            <name>ulpgc</name>
+            <url>https://github.com/YoneMoreno</url>
+            <distribution>repo</distribution>
+            <comments>Licencia de educacion</comments>
+        </license>
+    </licenses>
+
+    <organization>
+        <name>ULPGC, España</name>
+        <url>http://www.ulpgc.es</url>
+    </organization>
+
+    <developers>
+        <developer>
+            <name>Jorge Quintana Llitrá</name>
+            <email>cualquiera@gmail.com</email>
+            <url>htttp://cualquiera.es</url>
+            <roles>
+                <role>developer</role>
+            </roles>
+            <timezone>+0</timezone>
+        </developer>
+
+        <developer>
+            <name>Yone Moreno Jiménez</name>
+            <email>yonem9@gmail.com</email>
+            <url>http://cualquiera.es</url>
+            <roles>
+                <role>developer</role>
+            </roles>
+            <timezone>0</timezone>
+        </developer>
+    </developers>
+
+</project>
